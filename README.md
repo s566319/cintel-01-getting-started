@@ -100,7 +100,7 @@ Then, open the TODO Tree view icon (added to the icon column on the left) to see
 ## 5. Publish Your App with GitHub Pages
 
 GitHub lets us publish our client-side web apps for free with GitHub Pages. 
-Read [PuBLISH.md] to learn how to make your app available on the web. 
+Read [PUBLISH.md](PUBLISH.md) to learn how to make your app available on the web. 
 
 ## Reminders
 
